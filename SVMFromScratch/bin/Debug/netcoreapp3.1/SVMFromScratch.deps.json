@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SVMFromScratch/1.0.0": {
+        "runtime": {
+          "SVMFromScratch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SVMFromScratch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

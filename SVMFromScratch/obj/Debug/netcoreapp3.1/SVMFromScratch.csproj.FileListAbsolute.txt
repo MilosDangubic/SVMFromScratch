@@ -1,0 +1,39 @@
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csprojAssemblyReference.cache
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfoInputs.cache
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfo.cs
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.exe
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.deps.json
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.json
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.dev.json
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.dll
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.pdb
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.dll
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.pdb
+C:\Users\Vasilije\source\repos\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.genruntimeconfig.cache
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.exe
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.deps.json
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.json
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.dev.json
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.dll
+D:\Bilja\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.pdb
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csproj.AssemblyReference.cache
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfoInputs.cache
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfo.cs
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csproj.CoreCompileInputs.cache
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.dll
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.pdb
+D:\Bilja\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.genruntimeconfig.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csprojAssemblyReference.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfoInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.AssemblyInfo.cs
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.exe
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.deps.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.runtimeconfig.dev.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\bin\Debug\netcoreapp3.1\SVMFromScratch.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMFromScratch\SVMFromScratch\obj\Debug\netcoreapp3.1\SVMFromScratch.genruntimeconfig.cache
